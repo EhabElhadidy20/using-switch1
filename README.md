@@ -1,2 +1,2 @@
 # using-switch1
-printf("learn c")
+<h>learn c<h>
